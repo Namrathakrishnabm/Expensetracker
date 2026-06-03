@@ -4,16 +4,19 @@ A desktop-based Expense Tracker application built using Python, Tkinter, SQLite,
 
 ## Features
 
-* Add Income and Expenses
-* Category-based Expense Tracking
-* Transaction History
-* Date & Time Tracking
-* SQLite Database Integration
-* Automatic Balance Calculation
-* Pie Chart Visualization
-* CSV Export
-* Delete Transactions
-* Error Handling and Popups
+- Add Income and Expenses
+- Category-based Transaction Tracking
+- SQLite Database Integration
+- Automatic Balance Calculation
+- Transaction History
+- Search Transactions
+- Edit Transactions
+- Delete Transactions
+- Export Data to CSV
+- Expense Analysis with Pie Chart
+- Dark Theme Dashboard
+- Treeview Transaction Table
+- Date & Time Tracking
 
 ## Technologies Used
 
